@@ -1,0 +1,16 @@
+{
+  "name": "normes-ouvertes-bibliotheque",
+  "version": "1.0.0",
+  "description": "Bibliothèque pour normes ouvertes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/normes-ouvertes-bibliotheque.git"
+  },
+  "keywords": ["normes", "ouvertes", "bibliothèque"],
+  "author": "Votre Nom",
+  "license": "MIT"
+}
