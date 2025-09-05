@@ -1,0 +1,12 @@
+swagger: '2.0'
+info:
+  description: "Documentation de l'API pour Normes Ouvertes Bibliothèque"
+  version: "1.0.0"
+  title: "API Normes Ouvertes"
+paths:
+  /normes:
+    get:
+      summary: "Liste des normes ouvertes"
+      responses:
+        200:
+          description: "Liste des normes"
