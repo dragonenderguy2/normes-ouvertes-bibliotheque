@@ -1,5 +1,5 @@
 class NormesOuvertes {
-    static utiliserNorme(nomNorme) {
+    static appliquerNorme(nomNorme) {
         // Logique pour utiliser la norme
         return `Données extraites pour la norme: ${nomNorme}`;
     }
